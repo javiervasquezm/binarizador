@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Numero
+comment0.text=\r\n\ ejemplo\ de\ programa\ recursivo\r\n\ convierte\ entero\ en\ representacion\ binaria\r\n\ \r\n\ @author\ javier\ v\u00E1squez\r\n\ @version\ 1\ del\ 7\ de\ junio\ 2021\r\n
+comment1.params=n
+comment1.target=java.lang.String\ toBinary(int)
+comment1.text=\r\n\ @param\ n\=numero\ en\ proceso\ de\ conversion\ a\ binario\r\n\ @return\ hilera\ que\ representa\ num\ binario\r\n
+comment2.params=a
+comment2.target=void\ main(java.lang.String[])
+numComments=3
